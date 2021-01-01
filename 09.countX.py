@@ -1,0 +1,15 @@
+from unittest import TestCase
+
+
+def countX(s: str) -> int:
+    """
+    Given a string, compute recursively (no loops) the number of lowercase 'x' chars in the string.
+    countX("xxhixx") → 4
+    countX("xhixhix") → 3
+    countX("hi") → 0
+    """
+    pass
+
+
+class Test(TestCase):
+    pass
